@@ -1,7 +1,7 @@
 # Files in this repo  
 README.md – This is the README.md  
-CoursePresentation.Rpres - The reproducible pitch presentation for the shiny app created through Rstudio
-server.r - Uses the inputs from the ui.R and runs them through the necessary scripts to provide results.
+CoursePresentation.Rpres - The reproducible pitch presentation for the shiny app created through Rstudio.    
+server.r - Uses the inputs from the ui.R and runs them through the necessary scripts to provide results.  
 ui.R - Takes in the inputs required for the app
 
 # Description
